@@ -1,0 +1,21 @@
+div {
+  border: 1px solid #000;
+  border-radius: 5px;
+  border-top: 25px red solid;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  /* margin-right: 200px; */
+  /* margin-left: 5px; */
+  /* padding-left: 10rem;
+  padding-right: 10rem; */
+  height: 300px;
+  width: 50vw;
+  display: inline;
+}
+.box1 {
+  display: none;
+}
+
+div:hover {
+  background-color: #461994;
+}
