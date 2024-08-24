@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+code {
+  font-family: monospace;
+  color: red;
+}
+
+.codeclass {
+  color: green;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: rgb(127, 153, 255);
+}
+
+li + li {
+  background-color: blue;
+  color: rgb(165, 41, 41);
+}
+
+ol {
+  background-color: yellow;
+}
